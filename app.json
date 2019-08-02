@@ -1,0 +1,16 @@
+{
+    "id": "e3e06822-3735-4dc5-bc6c-8fcd592814f4",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.4.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "FRVR Team",
+        "homepage": "https://frvr.com/",
+        "support": "support@frvr.com"
+    },
+    "name": "Shoot Hoops",
+    "nameSlug": "button-war",
+    "classFile": "ButtonWarApp.ts",
+    "description": "Basketball FRVR",
+    "category": "game"
+}
